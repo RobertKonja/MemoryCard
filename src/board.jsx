@@ -4,14 +4,11 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./styles.css";
 import Card from "./Card.jsx";
 
-import s106 from "./image/vule.jpg";
+
 import s105 from "./image/105.png";
 import s107 from "./image/107.png";
 import s108 from "./image/117.png";
 import s109 from "./image/109.png";
-import s110 from "./image/vulemagdalena.jpg";
-import s111 from "./image/vulemama.jpg";
-import s112 from "./image/vuletata.jpg";
 import s113 from "./image/dino.png";
 import s114 from "./image/patrol.png";
 import s115 from "./image/spider.png";
